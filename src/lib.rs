@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 TII (SSRC) and the Ghaf contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! piv-multiparty: PIV-based PAM module enforcing multi-party
 //! authentication with cryptographic per-device identity.
 

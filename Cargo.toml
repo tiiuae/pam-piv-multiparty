@@ -1,9 +1,12 @@
+# SPDX-FileCopyrightText: 2026 TII (SSRC) and the Ghaf contributors
+# SPDX-License-Identifier: Apache-2.0
+
 [package]
 name = "piv-multiparty"
 version = "0.1.0"
 edition = "2021"
 rust-version = "1.77"
-license = "EUPL-1.2"
+license = "Apache-2.0"
 description = "PAM module enforcing multi-party PIV authentication using slot-9a SPKI as per-device identity"
 repository = "https://github.com/julienmalka/piv-multiparty"
 homepage = "https://github.com/julienmalka/piv-multiparty"

@@ -1,3 +1,8 @@
+<!--
+SPDX-FileCopyrightText: 2026 TII (SSRC) and the Ghaf contributors
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
+
 # piv-multiparty
 
 `piv-multiparty` is a Linux PAM module that gates an account on the cryptographic approval of **multiple distinct PIV smartcards** (e.g. YubiKeys).

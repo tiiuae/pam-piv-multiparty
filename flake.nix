@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 TII (SSRC) and the Ghaf contributors
+# SPDX-License-Identifier: Apache-2.0
+
 {
   description = "PAM module enforcing multi-party PIV authentication using slot-9a SPKI as per-device identity";
 

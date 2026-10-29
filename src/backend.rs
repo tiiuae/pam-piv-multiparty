@@ -1,3 +1,6 @@
+// SPDX-FileCopyrightText: 2026 TII (SSRC) and the Ghaf contributors
+// SPDX-License-Identifier: Apache-2.0
+
 //! PIV via PKCS#11. Loads a PKCS#11 module (typically
 //! `opensc-pkcs11.so`) at runtime; reads the slot-9a public key and
 //! signs challenges via standard Cryptoki calls.
